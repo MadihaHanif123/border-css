@@ -1,0 +1,10 @@
+p{
+    border: 40px  solid transparent;
+    border-image: url(./34896-1-purple-border-frame-transparent-picture-thumb.png) 60 stretch;
+    border-radius: 50%;
+
+}
+div{
+    height: 200px;
+    width: 400px;
+}
